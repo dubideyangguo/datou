@@ -5,3 +5,4 @@ echo 123456;
 echo 'lkdjjsdlk';
 echo "douduo";
 echo "hahha";
+var_dump(111);
