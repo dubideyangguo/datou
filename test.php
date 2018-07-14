@@ -6,3 +6,4 @@ echo 'lkdjjsdlk';
 echo "douduo";
 echo "hahha";
 echo 112233;
+var_dump(111);
